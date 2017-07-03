@@ -1,0 +1,47 @@
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/car"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Car"
+        android:tag="1"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/t5truck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5T Truck"
+        android:layout_below="@+id/car"
+        android:tag="2"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/t10truck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10T Truck"
+        android:layout_below="@+id/t5truck"
+        android:tag="3"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/tipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipper"
+        android:layout_below="@+id/t10truck"
+        android:tag="4"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/articulated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Articulated"
+        android:layout_below="@+id/tipper"
+        android:tag="5"
+        android:onClick="onClick"/>
+</RelativeLayout>

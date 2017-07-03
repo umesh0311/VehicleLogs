@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\AndroidStudioProjects\\vehicles1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/Badal/Desktop/vehicles1/C:\\Users\\allan\\.android\\build-cache\\0707c278dcf05eb2c6eb218987d3b95e5ec03133\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Badal/Desktop/vehicles1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

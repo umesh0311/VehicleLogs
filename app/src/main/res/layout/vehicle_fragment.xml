@@ -1,0 +1,195 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.Vehicle_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txttitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="32dp"
+        android:layout_centerHorizontal="true"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txttitle"
+        android:orientation="horizontal"
+        android:id="@+id/driverdata">
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Driver"
+            />
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/driver"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/driverdata"
+    android:orientation="horizontal"
+    android:id="@+id/regodata">
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rego #"
+        android:hint="xxx-xxx"
+        />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rego"/>
+
+
+</LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/regodata"
+        android:id="@+id/starttime">
+        <Button
+            android:id="@+id/btnstarttime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Time"
+            android:layout_weight="0"
+            android:onClick="savelog"/>
+
+        <TextView
+            android:id="@+id/starttext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/starttime"
+        android:id="@+id/fb">
+        <Button
+            android:id="@+id/btnfbtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First Break"
+            android:visibility="invisible"
+            android:layout_weight="0"
+            />
+        <TextView
+            android:id="@+id/fbtext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fb"
+        android:id="@+id/sb">
+        <Button
+            android:id="@+id/btnsbtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Second Break"
+            android:visibility="invisible"
+            android:layout_weight="0"
+            />
+        <TextView
+            android:id="@+id/sbtext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sb"
+        android:id="@+id/endtime">
+        <Button
+            android:id="@+id/btnendtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="End Time"
+            android:layout_weight="0"
+            android:visibility="invisible"
+            />
+        <TextView
+            android:id="@+id/ettext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+       android:layout_below="@id/endtime"
+        android:layout_marginTop="45dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/savelog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save Log Entry"
+            android:layout_weight="1"
+            android:onClick="savelog"/>
+        <Button
+            android:id="@+id/showlog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Log Entry"
+            android:layout_weight="1"
+            android:onClick="showlog"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        >
+
+        <Button
+            android:id="@+id/prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Previous"
+            android:layout_weight="1"
+            android:onClick="prev"/>
+        <Button
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="next"
+            android:layout_weight="1"
+            android:onClick="next"/>
+        <Button
+            android:id="@+id/home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="home"
+            android:layout_weight="1"
+            android:onClick="home"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

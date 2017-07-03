@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/0867cdc2e927022b2886295e65eff989fd1fa9b8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5a8be14da868de02aefe9705d2b886b80faba0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/a3042d411be121e4ea377722ce29a2078af87820/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cc6a3bc6fd7ab5f8294861577c53867563d2cde5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/792ad96d9072d6b8007c8cb9904f63caeb840193/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4ce810b89255bdcd39d690aab2e53c7ee5e232f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/0867cdc2e927022b2886295e65eff989fd1fa9b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_6e023cb9a070b119935bedeae9a09d33cff043bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/a3042d411be121e4ea377722ce29a2078af87820/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_62cb376317ee9a6c936d7cba53a83dc1819ff0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/28e8b74fa129746e7698afab270796765f20d315/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_61dffef3bd3592874dbac34a2a47c096c2e5a00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/f82ae6e1452f88fce257a6d5da45e5b74b430d48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_da77f735f81ec3bd1661cc8e76ae52cbdb40fa9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/3d48f757c2a797833af9feeca7375c4b034ec4b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_778f6876dd16dfbaac9dd6572080946a00974678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/3d48f757c2a797833af9feeca7375c4b034ec4b2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c46c886fe6bcd82b5681e6524abf048a7419aec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/7703e9f1311ce4ce2f5748f47dedf25a8d6e834d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_4e2478115212cae2dd84de87e1213ef27be78cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/792ad96d9072d6b8007c8cb9904f63caeb840193/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_b3bc1166e097c3908d5c04f9a8b30231502fee0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/996ae94911475a68cb87d8665eaa9cbeaaa968f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_fb6d9aa53a494f84d00e0a6420b35ed1c68efcb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/3ad270364bbb37e877480d98bfef1222ada5a4a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/classes_cf565c8ba70ee36eb28899ecd662258f3d0227c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_2e768a7c73a6b74e95fbe77e8f9ffbbe0207d4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Badal/.android/build-cache/f82ae6e1452f88fce257a6d5da45e5b74b430d48/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Badal/Desktop/vehicles1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2f249ce5959b05f8b34c0bc2a34c1e5dc9428141.jar" />
+    </item>
+
+</items>
